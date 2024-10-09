@@ -9,7 +9,7 @@ I'm committed to staying updated on industry trends and continuously expanding m
 
 I believe in the power of teamwork and collaboration and am always open to new opportunities and challenges. If you'd like to connect or discuss potential projects, feel free to reach out! Thank you for reading my summary.
 
-- ✍🏻 Right now I'm working as a software developer as a remote player!
+- ✍🏻 At the moment, I'm employed as a software developer working remotely.
 - 👩🏼‍🎓 I'm currently focused on projects involving backend components like WebAPI, GraphQL, and database services.
 - 🔎 In addition, I need to expand my knowledge of frontend technologies to build more seamless and robust backend services.
 - ⚽ Favourite sports: Football, Hiking, Outdoor
