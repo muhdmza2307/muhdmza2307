@@ -10,8 +10,8 @@ I'm committed to staying updated on industry trends and continuously expanding m
 I believe in the power of teamwork and collaboration and am always open to new opportunities and challenges. If you'd like to connect or discuss potential projects, feel free to reach out! Thank you for reading my summary.
 
 - ✍🏻 At the moment, I'm employed as a software developer working remotely.
-- 👩🏼‍🎓 I'm currently focused on projects involving backend components like WebAPI, GraphQL, and database services.
-- 🔎 In addition, I need to expand my knowledge of frontend technologies to build more seamless and robust backend services.
+- 🎯 I'm currently focused on projects involving backend components like WebAPI, GraphQL, and database services.
+- 🧠 In addition, I need to expand my knowledge of frontend technologies to build more seamless and robust backend services.
 - ⚽ Favourite sports: Football, Hiking, Outdoor
 
 <details open="">
@@ -21,17 +21,18 @@ I believe in the power of teamwork and collaboration and am always open to new o
   [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/muhdmza)
 </details>
 
-## Tech Stack
-### Languages / Libraries / Frameworks
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![VB](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Web API](https://img.shields.io/badge/Web%20API-005571?style=for-the-badge&logo=api&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+<details open="">
+  <summary><h2>Tech Stack<h2></summary>
+  
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![VB](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  ![Web API](https://img.shields.io/badge/Web%20API-005571?style=for-the-badge&logo=api&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</details>
 
 
 <div align="center">
